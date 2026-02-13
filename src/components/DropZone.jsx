@@ -80,7 +80,7 @@ export function DropZone({ onFilesSelected, disabled }) {
           Or click. We know you will anyway.
         </p>
 
-        <p className="text-xs text-slate-400 mt-2">
+        <p className="text-xs text-slate-100 mt-2">
           No size limit. We don’t judge.
         </p>
       </div>
